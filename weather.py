@@ -19,6 +19,8 @@ city_map = {
     "수원": "Suwon",
     "제주": "Jeju",
     "파주": "Paju",
+    "평양": "Pyongyang",
+    "도쿄": "Tokyo",
     # 필요한 도시를 계속 추가할 수 있어요
 }
 
