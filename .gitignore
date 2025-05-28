@@ -2,3 +2,5 @@
 .venv/
 img/
 __pycache__/
+bot_activity.log
+reaction_gifs/

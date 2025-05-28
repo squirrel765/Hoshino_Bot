@@ -346,7 +346,7 @@ async def ladder_game(ctx: commands.Context, *, full_input: str):
             return
         if len(participants) == 1: # 1명일 때도 결과는 보여줄 수 있도록 함.
              await ctx.reply(f"후훗, {participants[0]} 선생은(는) **{outcomes[0]}**(이)야! 뭐, 혼자니까 당연한가? 으헤~", mention_author=False)
-            return
+        return
 
 
         # 참가자 순서는 유지하고, 결과 순서를 섞어서 매칭
